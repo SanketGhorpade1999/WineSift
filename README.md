@@ -47,6 +47,5 @@ Hence, we implemented SVM algorithm on red wine quality dataset which discrimina
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\THANK - YOU///////////////////////////////////////////////////////////////////
 
-          PROJECT CREATED BY - Prashant Wakchaure
-          Email ID - prashant900555@gmail.com
-          Contact No. - 8975366296
+          PROJECT CREATED BY - Sanket Ghorpade
+          Email ID - sanketghorpade11@gmail.com
